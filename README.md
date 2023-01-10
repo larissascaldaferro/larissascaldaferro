@@ -4,5 +4,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estudo diar
 ### Habilidades
 HTML
 CSS
-JavaScript
+JavaScript e
 Git
