@@ -8,17 +8,26 @@ JavaScript e
 Git
 
 ### Links de todos os projetos criados por mim
-Semáforo: https://larissascaldaferro.github.io/semaforo/,
+Semáforo: https://larissascaldaferro.github.io/semaforo/
 
-Calculadora: https://larissascaldaferro.github.io/Calculadora/,
+Calculadora: https://larissascaldaferro.github.io/Calculadora/
 
-Lâmpada Que Acende e Apaga: https://larissascaldaferro.github.io/lampada/,
-Calculadora de Índice de Massa Corporea:https://larissascaldaferro.github.io/calculadora-de-IMC/,
-Catálogo de Carros: https://larissascaldaferro.github.io/catalogo-de-carros/,
-Finans: https://larissascaldaferro.github.io/projeto-finans/,
-Landing Page:https://larissascaldaferro.github.io/projeto-landing-page/,
-Web: https://larissascaldaferro.github.io/projeto-web/,
-Hotel Paraiso: https://larissascaldaferro.github.io/projeto-hotel-paraiso/,
-Login: https://larissascaldaferro.github.io/projeto-login/,
-Mascote do Android :https://larissascaldaferro.github.io/projeto-mascote-android/,
-Saite com Vídeos:https://larissascaldaferro.github.io/projeto-saite-com-videos/,
+Lâmpada Que Acende e Apaga: https://larissascaldaferro.github.io/lampada/
+
+Calculadora de Índice de Massa Corporea:https://larissascaldaferro.github.io/calculadora-de-IMC/
+
+Catálogo de Carros: https://larissascaldaferro.github.io/catalogo-de-carros/
+
+Finans: https://larissascaldaferro.github.io/projeto-finans/
+
+Landing Page:https://larissascaldaferro.github.io/projeto-landing-page/
+
+Web: https://larissascaldaferro.github.io/projeto-web/
+
+Hotel Paraiso: https://larissascaldaferro.github.io/projeto-hotel-paraiso/
+
+Login: https://larissascaldaferro.github.io/projeto-login/
+
+Mascote do Android :https://larissascaldaferro.github.io/projeto-mascote-android/
+
+Saite com Vídeos:https://larissascaldaferro.github.io/projeto-saite-com-videos/
