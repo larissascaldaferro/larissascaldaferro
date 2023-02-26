@@ -8,6 +8,8 @@ JavaScript e
 Git
 
 ### Links de todos os projetos criados por mim
+Catálogo de produtos: https://larissascaldaferro.github.io/Arenas-Bar-Bar-do-Lemao--Amici/
+
 Relógio Digital: https://larissascaldaferro.github.io/Relogio-Digital/
 
 Semáforo: https://larissascaldaferro.github.io/semaforo/
