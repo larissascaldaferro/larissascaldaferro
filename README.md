@@ -1,10 +1,11 @@
 ### Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estudo de forma focada todos os dias, para cada vez mais adiquirir novos conhecimentos.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estudo de forma focada todos os dias, para cada vez mais adquirir novos conhecimentos.
+atualmente sou desenvolvedora FRONT-END porém meu foco é ser desenvolvedora FULL STACK por isso estudo todo os dias focada.
 
 ### Habilidades
 HTML,
 CSS,
-JavaScript e
+JavaScript, React e
 Git
 
 ### Links de todos os projetos criados por mim
