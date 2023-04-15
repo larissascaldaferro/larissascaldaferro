@@ -5,8 +5,8 @@ Atualmente sou desenvolvedora FRONT-END porém meu foco é ser desenvolvedora FU
 ### Habilidades
 HTML,
 CSS,
-JavaScript, React e
-Git
+JAVASCRIPT, REACT e
+GIT.
 
 ### Links de todos os projetos criados por mim
 Catálogo de produtos: https://larissascaldaferro.github.io/Arenas-Bar-Bar-do-Lemao--Amici/
