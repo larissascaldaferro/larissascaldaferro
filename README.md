@@ -9,7 +9,6 @@ JAVASCRIPT, REACT e
 GIT.
 
 ### Links de todo os projetos criados por mim
-Catálogo de produtos: https://larissascaldaferro.github.io/Arenas-Bar-Bar-do-Lemao--Amici/
 
 Relógio Digital: https://larissascaldaferro.github.io/Relogio-Digital/
 
